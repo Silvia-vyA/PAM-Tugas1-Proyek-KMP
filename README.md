@@ -1,40 +1,51 @@
-This is a Kotlin Multiplatform project targeting Android, Desktop (JVM).
+# 💙 Tugas Minggu 1 - Pengembangan Aplikasi Mobile
 
-* [/composeApp](./composeApp/src) is for code that will be shared across your Compose Multiplatform applications.
-  It contains several subfolders:
-  - [commonMain](./composeApp/src/commonMain/kotlin) is for code that’s common for all targets.
-  - Other folders are for Kotlin code that will be compiled for only the platform indicated in the folder name.
-    For example, if you want to use Apple’s CoreCrypto for the iOS part of your Kotlin app,
-    the [iosMain](./composeApp/src/iosMain/kotlin) folder would be the right place for such calls.
-    Similarly, if you want to edit the Desktop (JVM) specific part, the [jvmMain](./composeApp/src/jvmMain/kotlin)
-    folder is the appropriate location.
-
-### Build and Run Android Application
-
-To build and run the development version of the Android app, use the run configuration from the run widget
-in your IDE’s toolbar or build it directly from the terminal:
-- on macOS/Linux
-  ```shell
-  ./gradlew :composeApp:assembleDebug
-  ```
-- on Windows
-  ```shell
-  .\gradlew.bat :composeApp:assembleDebug
-  ```
-
-### Build and Run Desktop (JVM) Application
-
-To build and run the development version of the desktop app, use the run configuration from the run widget
-in your IDE’s toolbar or run it directly from the terminal:
-- on macOS/Linux
-  ```shell
-  ./gradlew :composeApp:run
-  ```
-- on Windows
-  ```shell
-  .\gradlew.bat :composeApp:run
-  ```
+**IF25-22017 Pengembangan Aplikasi Mobile**  
+Program Studi Teknik Informatika  
+Institut Teknologi Sumatera (ITERA)
 
 ---
 
-Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…
+## 👩‍💻 Identitas Mahasiswa
+
+**Nama:** Silvia  
+**NIM:** 123140133  
+**Kelas:** Pengembangan Aplikasi Mobile RB 
+
+---
+
+## 📌 Deskripsi Tugas
+
+Tugas minggu ke-1 ini bertujuan untuk memahami dasar penggunaan  
+**Kotlin Multiplatform (KMP)** dengan langkah-langkah berikut:
+
+1. Melakukan setup environment pengembangan menggunakan:
+   - Android Studio  
+   - Kotlin Multiplatform (KMP) Plugin  
+   - JDK 17  
+
+2. Membuat proyek baru dengan template **Compose Multiplatform**
+
+3. Memodifikasi aplikasi bawaan *Hello World* dengan:
+   - Mengubah teks menjadi  
+     ➝ **"Halo, Silvia 👑!"**
+   - Menambahkan **NIM Mahasiswa**
+
+4. Menjalankan aplikasi pada minimal satu platform  
+   (Android atau Desktop)
+
+5. Mengunggah hasil project ke GitHub repository pribadi
+
+---
+
+## ✨ Hasil Implementasi
+
+
+### 💻 Platform Desktop
+(Tambahkan screenshot di sini)
+
+### 📱 Platform Android
+(Tambahkan screenshot di sini)
+
+---
+
