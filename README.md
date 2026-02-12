@@ -23,38 +23,31 @@ Tugas minggu ke-1 ini bertujuan untuk memahami dasar penggunaan
    - Android Studio  
    - Kotlin Multiplatform (KMP) Plugin  
    - JDK 17  
-
 2. Membuat proyek baru dengan template **Compose Multiplatform**
-
 3. Memodifikasi aplikasi bawaan *Hello World* dengan:
    - Mengubah teks menjadi  
      ➝ **"Halo, Silvia 👑!"**
    - Menambahkan **NIM Mahasiswa**
-
 4. Menjalankan aplikasi pada minimal satu platform  
    (Android atau Desktop)
-
-5. Mengunggah hasil project ke GitHub repository pribadi
 
 ---
 
 ## ✨ Hasil Implementasi
 
+## 📸 Screenshot Aplikasi
 
-### 💻 Platform Desktop
+### 💻 Desktop (JVM)
 <p align="center">
-  <img src="dekstop1.png" width="400"/>
-</p>
-<p align="center">
-  <img src="desktop2.png" width="400"/>
+  <img src="dekstop1.png" width="420" />
+  <img src="dekstop2.png" width="420" />
 </p>
 
-### 📱 Platform Android
+### 📱 Android
 <p align="center">
-  <img src="android1.png" width="400"/>
+  <img src="android1.jpeg" width="240" />
+  <img src="android2.jpeg" width="240" />
 </p>
-<p align="center">
-  <img src="android2.png" width="400"/>
-</p>
+
 ---
 
