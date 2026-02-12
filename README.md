@@ -33,9 +33,7 @@ Tugas minggu ke-1 ini bertujuan untuk memahami dasar penggunaan
 
 ---
 
-## ✨ Hasil Implementasi
-
-## 📸 Screenshot Aplikasi
+## ✨📸 Hasil Implementasi
 
 ### 💻 Desktop (JVM)
 <p align="center">
