@@ -42,10 +42,19 @@ Tugas minggu ke-1 ini bertujuan untuk memahami dasar penggunaan
 
 
 ### 💻 Platform Desktop
-(Tambahkan screenshot di sini)
+<p align="center">
+  <img src="dekstop1.png" width="400"/>
+</p>
+<p align="center">
+  <img src="desktop2.png" width="400"/>
+</p>
 
 ### 📱 Platform Android
-(Tambahkan screenshot di sini)
-
+<p align="center">
+  <img src="android1.png" width="400"/>
+</p>
+<p align="center">
+  <img src="android2.png" width="400"/>
+</p>
 ---
 
